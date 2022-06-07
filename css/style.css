@@ -1,0 +1,160 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+body
+{
+  margin-top: 0;
+  margin-left: 0;
+  text-align: center;
+  font-family: 'Kaushan Script', cursive;
+  font-size: 2em;
+  color:#40514E;
+}
+h1
+{
+  color:#66BFBF;
+  margin-top: 0;
+  margin-left: 0;
+  padding-top: 95px;
+  font-size: 3em; /* (16px == 100%) (1em=16px)*/
+    margin:0;
+    line-height: 2;
+}
+h2
+{
+  color:#66BFBF;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom:10px;
+
+}
+h3
+{
+  color:#11999E;
+}
+.MyPic
+{
+  height: 256px;
+  width:256px;
+}
+p{
+  line-height: 2;
+}
+.TopContainer
+{
+  background-color: #E4F9F5;
+  position: relative;
+}
+.MiddleContainer
+{
+  margin-top: 80px;
+}
+.BottomContainer
+{
+
+}
+.BottomCloud{
+  position: absolute;
+  bottom:300px;
+  left:300px;
+}
+.TopCloud{
+  position: absolute;
+  right:200px;
+  top:23px;
+}
+.Skill-1
+{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+  text-align: left;
+}
+.Skill-2
+{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+  text-align: left;
+}
+
+.imgSkill1
+{
+  width: 25%;
+  float: left;
+  margin-right:12px;
+}
+.imgSkill2
+{
+  width: 25%;
+  float:right;
+  margin-left: 12px;
+}
+.pSkill1
+{
+  clear: left;
+}
+.pSkill2
+{
+  clear:right;
+}
+.MyIntro
+{
+  width: 25%;
+  margin:auto;
+}
+hr{
+  border:dotted #EAF6F6 6px;
+  border-bottom: none;
+  width:10%;
+  margin: auto;
+}
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #0c94e8;
+  background-image: -webkit-linear-gradient(top, #0c94e8, #073a5c);
+  background-image: -moz-linear-gradient(top, #0c94e8, #073a5c);
+  background-image: -ms-linear-gradient(top, #0c94e8, #073a5c);
+  background-image: -o-linear-gradient(top, #0c94e8, #073a5c);
+  background-image: linear-gradient(to bottom, #0c94e8, #073a5c);
+  text-decoration: none;
+}
+.SocialMedia
+{
+  background-color: #66BFBF;
+}
+.ContactMe
+{
+  margin-bottom: 20px;
+}
+.copyright
+{
+  margin-bottom: -7px;
+  font-size: 16px;
+  color: black;
+  padding: 20px;
+}
+a
+{
+  color: #11999E;
+  marigin-left:10px;
+  margin-right: 20px;
+}
+a:hover
+{
+  color:white;
+}
